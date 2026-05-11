@@ -57,6 +57,11 @@ h2{
     border: 2px solid black;
     height: fit-content;
     width: fit-content;
+    background-color: white;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .download{
